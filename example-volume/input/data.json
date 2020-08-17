@@ -1,0 +1,30 @@
+{
+  "name": "Smith",
+  "playlists": [
+    {
+      "playlist_name": "Cats",
+      "images": [
+        {
+          "image_name": "Cool Cat"
+        },
+        {
+          "image_name": "Cooler Cat"
+        }, {
+        "image_name": "Coolest Cat"
+        }
+      ]
+    },
+    {
+      "playlist_name": "Dogs",
+      "images": [
+        {
+          "image_name": "Cool Dog"
+        },
+        {
+          "image_name": "Cooler Dog",
+          "image_id": "dog2"
+        }
+      ]
+    }
+  ]
+}
